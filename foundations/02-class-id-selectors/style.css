@@ -1,0 +1,18 @@
+p {
+    background-color: rgba(242, 83, 194, 0.413);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.fountain {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four {
+    font-weight: bold;
+    background-color: rgb(122, 192, 122);
+}
